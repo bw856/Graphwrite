@@ -1,5 +1,4 @@
 /*
- Created by Brandon Wang
  May 29, 2019
  Graphwrite - Table of Values
  */
